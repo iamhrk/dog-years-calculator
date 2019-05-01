@@ -1,4 +1,4 @@
-# dogAgeCalculator
+# Dog Years Calculator
 >This is a beginner level JavaScript project which I have done that calculate human years in dog years.
 >Check to know how much is your age in dog years!
 
